@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Simple Login App</string>
+    <string name="welcome_to_family_gps">Welcome to Family GPS</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="todo">TODO</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="name_bob">Name (Bob)</string>
+    <string name="password">Password</string>
+    <string name="username_bob5">Username (bob5)</string>
+    <string name="_submit">Submit</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_current_location">View Current Location</string>
+    <string name="update_location">Update Location</string>
+    <string name="view_family_members">View Family Members</string>
+    <string name="family_id_101">Family ID (101)</string>
+    <string name="view_friends">view friends</string>
+    <string name="search_for_friend">Search For Friend</string>
+    <string name="friend_s_username">Friend\'s Username</string>
+    <string name="search">Search</string>
+    <string name="friends_username">Friend\'s Username</string>
+    <string name="friend_username">Friend Username</string>
+    <string name="title_activity_friend_map">Map</string>
+    <string name="title_activity_my_map">Map</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="logout">logout</string>
+</resources>
